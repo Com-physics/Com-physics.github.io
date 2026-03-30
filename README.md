@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy logo"  />
   <img width="12" /> </a>
  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="42" alt="matplotlib logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="42" alt="matplotlib logo" />
   <img width="12" /> </a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" height="42" alt="pandas logo" />
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="42" alt="jupyter logo"  />
   <img width="12" /> </a>
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1000px-Spyder_logo.svg.png" height="42" alt="spyder logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" height="42" alt="spyder logo"  />
   <img width="12" /> </a>
   <a href="https://www.codeblocks.org" target="_blank" rel="noreferrer">
   <img src="https://www.codeblocks.org/images/logo160.png" height="42" alt="Code::Blocks IDE logo" />
@@ -83,7 +83,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr-comphysics&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="138" alt="languages graph"  />
+  [![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-comphysics)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
