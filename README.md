@@ -82,10 +82,6 @@
 
 ###
 
-<div align="center">
-  [![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-comphysics)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 ###
 
 <p align="center">opensource is ❤️</p>
